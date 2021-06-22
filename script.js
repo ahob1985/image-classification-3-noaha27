@@ -1,4 +1,4 @@
-// Author:
+// Author: Noah Abiy
 
 // Global UI Variables
 //let canvasDiv;
